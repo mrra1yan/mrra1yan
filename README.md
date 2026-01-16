@@ -98,7 +98,7 @@
     <img src="https://img.shields.io/badge/Website-docstec.com/raiyan-00FF87?style=for-the-badge&logo=google-chrome&logoColor=white"/>
   </a>
   <a href="mailto:raiyan@docstec.com">
-    <img src="https://img.shields.io/badge/Email-raiyan@docstec.comEA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-raiyan@docstec.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://wa.me/8801634330581" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-Chat_Now-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
