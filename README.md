@@ -111,5 +111,5 @@
 ---
 
 <div align="center">
-<sub>Built with passion by a WordPress Enthusiast | Last Updated: January 2024</sub>
+<sub>Built with passion by a WordPress Enthusiast | Last Updated: January 2026</sub>
 </div>
